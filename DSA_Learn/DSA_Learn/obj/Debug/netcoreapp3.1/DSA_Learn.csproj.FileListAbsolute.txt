@@ -1,0 +1,14 @@
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\bin\Debug\netcoreapp3.1\DSA_Learn.exe
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\bin\Debug\netcoreapp3.1\DSA_Learn.deps.json
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\bin\Debug\netcoreapp3.1\DSA_Learn.runtimeconfig.json
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\bin\Debug\netcoreapp3.1\DSA_Learn.runtimeconfig.dev.json
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\bin\Debug\netcoreapp3.1\DSA_Learn.dll
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\bin\Debug\netcoreapp3.1\DSA_Learn.pdb
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.csproj.AssemblyReference.cache
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.AssemblyInfoInputs.cache
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.AssemblyInfo.cs
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.csproj.CoreCompileInputs.cache
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.dll
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.pdb
+C:\Users\SAI\Documents\Rohith\DSA\DSA\DSA_Learn\DSA_Learn\obj\Debug\netcoreapp3.1\DSA_Learn.genruntimeconfig.cache

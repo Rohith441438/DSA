@@ -1,4 +1,5 @@
-﻿using System;
+﻿using DSA_Learn.BinarySearch;
+using System;
 
 namespace DSA_Learn
 {
@@ -6,7 +7,8 @@ namespace DSA_Learn
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            BinarySearchAlgorithm bsa = new BinarySearchAlgorithm();
+            bsa.ExecuteBinarySearchAlgorithm();
         }
     }
 }
